@@ -374,6 +374,30 @@ input[type="text" i] {
     right: 20px;
     top: 20px;
 }
+<<<<<<< HEAD
+=======
+[class^="icon-"], [class*=" icon-"] {
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    font-family: icomoon !important;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    font-family: icomoon !important;
+}
+>>>>>>> origin/master
 .close-button-wrap.jsx-2046279082 span.disabled.jsx-2046279082::before {
     color: rgb(198, 198, 198);
 }

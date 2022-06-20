@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.teamproject.domain.vo;
 
 import lombok.Data;
@@ -14,3 +15,16 @@ public class BoardReplyVO {
     private String updateDate;
 
 }
+=======
+package com.example.teamproject.domain.vo;
+
+public class BoardReplyVO {
+    private int Rno;
+    private int Bno;
+    private String Content;
+    private String Name;
+    private String RegisterDate;
+    private String UpdateDate;
+
+}
+>>>>>>> origin/master

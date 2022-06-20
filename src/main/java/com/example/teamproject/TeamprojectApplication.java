@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.teamproject;
 
 import org.springframework.boot.SpringApplication;
@@ -10,3 +11,18 @@ public class TeamprojectApplication {
 		SpringApplication.run(TeamprojectApplication.class, args);
 	}
 }
+=======
+package com.example.teamproject;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TeamprojectApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TeamprojectApplication.class, args);
+    }
+
+}
+>>>>>>> origin/master
